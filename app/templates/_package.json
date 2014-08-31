@@ -1,0 +1,21 @@
+{
+  "name": "<%= props.name %>",
+  "description": "<%= props.description %>",
+  "version": "0.0.0",
+  "main": "lib/<%= props.name %>.js",
+  "homepage": "<%= props.repoUrl %>",
+  "bugs": "<%= props.repoUrl %>/issues",
+  "author": "Veselin Todorov <hi@vesln.com>",
+  "license": "MIT",
+  "files": ["lib"],
+  "scripts": {
+    "test": "mini"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<%= props.repoUrl %>"
+  },
+  "devDependencies": {
+    "mini": "*"
+  }
+}
