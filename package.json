@@ -1,7 +1,7 @@
 {
   "name": "generator-mod",
   "description": "Fork of generator-node, personalized for my own needs",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/vesln/generator-mod",
   "bugs": "https://github.com/vesln/generator-mod/issues",
   "author": "Veselin Todorov <hi@vesln.com>",
